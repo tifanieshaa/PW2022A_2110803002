@@ -1,6 +1,6 @@
 <?php
 if (
-!isset($_GET["angka"])
+    !isset($_GET["angka"])
 ) {
 echo "Silahkan input angka melalui link dengan format 
 (?angka=)";

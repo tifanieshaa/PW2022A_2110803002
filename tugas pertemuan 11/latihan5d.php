@@ -4,7 +4,7 @@
     <title>POST</title>
 </head>
 <body>
-    <form action="" method="post">
+    <form action= "" method="post">
         <label for="angka">Masukkan Angka : </label>
         <input type="text" name="angka" id="angka">
         <button type="submit" name="submit">Tampilkan</button>
